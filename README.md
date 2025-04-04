@@ -3,10 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
-. Advanced a car-selling app featuring detailed product listings and advanced filtering options.  
-. Implemented state management using Bloc and structured the app following the MVVM pattern .
 
 This project is a starting point for a Flutter application.
+. Advanced a car-selling app featuring detailed product listings and advanced filtering options.  
+. Implemented state management using Bloc and structured the app following the MVVM pattern .
 
 A few resources to get you started if this is your first Flutter project:
 
